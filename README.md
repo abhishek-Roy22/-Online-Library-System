@@ -1,8 +1,17 @@
-# React + Vite
+# Online Library System
+-------------------------
+## Feature 
+  1. Implemet add new book functionality
+  2. Search book functionlity
+  3. Filter book by Title or Author name
+  4. Dynamic Route
+-------------------------------------------
+## Run this command in terminal to run in browser
+```
+cd project directory
+npm install
+npm run dev
+```
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Please provide Review and give me feedback 
+-----------------------------------------------
